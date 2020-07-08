@@ -1,0 +1,3 @@
+/Users/fernandocuscomejia/Documents/Decimo/IA2/Vision-Computador/Opencv/Boletin-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/fernandocuscomejia/Documents/Decimo/IA2/Vision-Computador/Opencv/Boletin-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fernandocuscomejia/Documents/Decimo/IA2/Vision-Computador/Opencv/Boletin-1/cmake-build-debug/CMakeFiles/Boletin_1.dir
